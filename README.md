@@ -58,5 +58,6 @@ Managing a basic 2D game loop
 
 📸 Screenshot
 
+<img width="1884" height="1099" alt="Screenshot 2025-09-07 223045" src="https://github.com/user-attachments/assets/3cd2e123-0421-4ecb-a797-438170655690" />
 
-(replace with your screenshot file in repo)
+
